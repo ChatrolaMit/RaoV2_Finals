@@ -1,0 +1,830 @@
+#case1
+* * * * * 
+* * * * * 
+* * * * * 
+* * * . . 
+* * * . c 
+#case2
+impossible
+#case3
+* * * * 
+* * * * 
+* * * * 
+* * * c 
+#case4
+impossible
+#case5
+impossible
+#case6
+impossible
+#case7
+impossible
+#case8
+* * * * * 
+* * * * * 
+* * * * * 
+. . . . . 
+. . . . c 
+#case9
+* . . . 
+. . . . 
+. . . . 
+. . . . 
+. . . c 
+#case10
+* * * * * 
+* * * * * 
+* . . . . 
+* . . . c 
+#case11
+* * * * * 
+. . . . . 
+. . . . c 
+#case12
+impossible
+#case13
+* * * . . 
+* * * . . 
+. . . . . 
+. . . . c 
+#case14
+* * * 
+* * * 
+* * * 
+* * * 
+* * c 
+#case15
+impossible
+#case16
+impossible
+#case17
+* * * * * 
+* * * . . 
+. . . . . 
+. . . . c 
+#case18
+* * * * * 
+* * * * * 
+* * * . . 
+* * * . c 
+#case19
+* 
+c 
+#case20
+impossible
+#case21
+impossible
+#case22
+* . . c 
+#case23
+impossible
+#case24
+impossible
+#case25
+impossible
+#case26
+impossible
+#case27
+impossible
+#case28
+* * 
+* * 
+* * 
+. . 
+. c 
+#case29
+impossible
+#case30
+* * * 
+* . . 
+. . . 
+. . c 
+#case31
+* * . . 
+* * . c 
+#case32
+* c 
+#case33
+impossible
+#case34
+* * * 
+* * c 
+#case35
+impossible
+#case36
+* * * 
+* * * 
+* * c 
+#case37
+* * . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case38
+* * 
+* c 
+#case39
+* * * * 
+* * * * 
+* * . . 
+* * . c 
+#case40
+. . . 
+. . c 
+#case41
+* * . . 
+. . . . 
+. . . . 
+. . . c 
+#case42
+impossible
+#case43
+* * * * * 
+* * * * c 
+#case44
+* * * * * 
+* * * * * 
+* * * . . 
+. . . . . 
+. . . . c 
+#case45
+* * * * 
+* . . . 
+* . . c 
+#case46
+impossible
+#case47
+. . c 
+#case48
+* * 
+* * 
+. . 
+. . 
+. c 
+#case49
+* * * . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case50
+* 
+. 
+. 
+. 
+c 
+#case51
+* * * 
+* . . 
+* . c 
+#case52
+* * * * 
+* * . . 
+. . . . 
+. . . c 
+#case53
+* . . 
+* . c 
+#case54
+impossible
+#case55
+* . . . 
+* . . c 
+#case56
+impossible
+#case57
+* * * * 
+* * * * 
+* * * * 
+* * . . 
+* * . c 
+#case58
+impossible
+#case59
+* . c 
+#case60
+. . . . . 
+. . . . c 
+#case61
+* * 
+. . 
+. . 
+. . 
+. c 
+#case62
+impossible
+#case63
+impossible
+#case64
+* * * * 
+* * . . 
+* * . . 
+. . . . 
+. . . c 
+#case65
+* 
+* 
+. 
+c 
+#case66
+impossible
+#case67
+. . . . 
+. . . . 
+. . . . 
+. . . c 
+#case68
+. 
+. 
+c 
+#case69
+* * * . . 
+* * * . c 
+#case70
+* . . 
+. . . 
+. . . 
+. . c 
+#case71
+* * * * * 
+* * * * * 
+* * * * * 
+* * . . . 
+* * . . c 
+#case72
+* * * * * 
+* * * * * 
+* * * * * 
+* . . . . 
+* . . . c 
+#case73
+* * . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case74
+impossible
+#case75
+* . . 
+* . . 
+. . . 
+. . . 
+. . c 
+#case76
+* * * . . 
+* * . . . 
+. . . . . 
+. . . . c 
+#case77
+impossible
+#case78
+impossible
+#case79
+impossible
+#case80
+impossible
+#case81
+* * * 
+* * * 
+* * * 
+* . . 
+* . c 
+#case82
+impossible
+#case83
+* * * * 
+* * * * 
+* * * c 
+#case84
+impossible
+#case85
+impossible
+#case86
+. . . c 
+#case87
+* 
+. 
+. 
+c 
+#case88
+impossible
+#case89
+* * * * 
+* * . . 
+* * . c 
+#case90
+* * * * 
+* * * * 
+* * * * 
+* . . . 
+* . . c 
+#case91
+. . . 
+. . . 
+. . . 
+. . c 
+#case92
+. . . 
+. . . 
+. . . 
+. . . 
+. . c 
+#case93
+impossible
+#case94
+* * * * * 
+* . . . . 
+* . . . c 
+#case95
+impossible
+#case96
+impossible
+#case97
+* . . . 
+. . . . 
+. . . c 
+#case98
+* * * . . 
+* . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case99
+impossible
+#case100
+impossible
+#case101
+impossible
+#case102
+impossible
+#case103
+* * . c 
+#case104
+* . . . . 
+. . . . . 
+. . . . c 
+#case105
+* * 
+. . 
+. . 
+. c 
+#case106
+* * * 
+* * * 
+* . . 
+. . . 
+. . c 
+#case107
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case108
+* * * * c 
+#case109
+impossible
+#case110
+* * . . 
+. . . . 
+. . . . 
+. . . . 
+. . . c 
+#case111
+impossible
+#case112
+* * * . . 
+. . . . . 
+. . . . c 
+#case113
+impossible
+#case114
+impossible
+#case115
+* 
+* 
+. 
+. 
+c 
+#case116
+* * c 
+#case117
+impossible
+#case118
+* . . 
+. . . 
+. . . 
+. . . 
+. . c 
+#case119
+impossible
+#case120
+* * * * 
+. . . . 
+. . . c 
+#case121
+impossible
+#case122
+* 
+* 
+* 
+c 
+#case123
+* * * . . 
+* * * . . 
+* . . . . 
+. . . . . 
+. . . . c 
+#case124
+* * 
+* * 
+* * 
+* * 
+* c 
+#case125
+* * * * 
+* * * c 
+#case126
+* 
+* 
+c 
+#case127
+impossible
+#case128
+. . 
+. . 
+. c 
+#case129
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * c 
+#case130
+* * * . . 
+* * * . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case131
+impossible
+#case132
+* * * 
+* . . 
+* . . 
+. . . 
+. . c 
+#case133
+impossible
+#case134
+* . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case135
+* . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case136
+. 
+c 
+#case137
+* . . . . 
+* . . . c 
+#case138
+impossible
+#case139
+* * * * 
+* * * * 
+* * * * 
+. . . . 
+. . . c 
+#case140
+impossible
+#case141
+* * . . 
+. . . . 
+. . . c 
+#case142
+. 
+. 
+. 
+. 
+c 
+#case143
+* * * * * 
+* * * . . 
+* * * . c 
+#case144
+* * . . . 
+. . . . . 
+. . . . c 
+#case145
+. . . . 
+. . . c 
+#case146
+* 
+. 
+c 
+#case147
+impossible
+#case148
+* * * * * 
+* * * * * 
+* * . . . 
+* * . . c 
+#case149
+* * * . . 
+* . . . . 
+. . . . . 
+. . . . c 
+#case150
+* * * . c 
+#case151
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * c 
+#case152
+* * * 
+* * * 
+. . . 
+. . c 
+#case153
+* * 
+* * 
+* * 
+* c 
+#case154
+* . . 
+* . . 
+* . . 
+. . . 
+. . c 
+#case155
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+* * * c 
+#case156
+* * . . 
+* * . . 
+. . . . 
+. . . c 
+#case157
+* * 
+. . 
+. c 
+#case158
+impossible
+#case159
+* * * * * 
+* * * * * 
+. . . . . 
+. . . . c 
+#case160
+* * * 
+* * * 
+* * * 
+. . . 
+. . c 
+#case161
+* * . . c 
+#case162
+impossible
+#case163
+impossible
+#case164
+impossible
+#case165
+* . . 
+. . . 
+. . c 
+#case166
+* * * * 
+* * * * 
+. . . . 
+. . . c 
+#case167
+. 
+. 
+. 
+c 
+#case168
+impossible
+#case169
+impossible
+#case170
+impossible
+#case171
+* * * 
+* * * 
+* * * 
+* * c 
+#case172
+* * * 
+* * * 
+* . . 
+* . c 
+#case173
+impossible
+#case174
+impossible
+#case175
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case176
+impossible
+#case177
+* * . . 
+* * . . 
+* . . . 
+. . . . 
+. . . c 
+#case178
+. . . . c 
+#case179
+* * * * 
+* * * * 
+* * . . 
+. . . . 
+. . . c 
+#case180
+* * * . . 
+* * . . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case181
+* * * * * 
+* * * * * 
+* * * * c 
+#case182
+* * * 
+. . . 
+. . c 
+#case183
+. . 
+. c 
+#case184
+* . . . c 
+#case185
+* * 
+* * 
+* c 
+#case186
+* * * * 
+* * * * 
+* . . . 
+* . . c 
+#case187
+* * * . . 
+. . . . . 
+. . . . . 
+. . . . c 
+#case188
+* * . . 
+* * . . 
+. . . . 
+. . . . 
+. . . c 
+#case189
+impossible
+#case190
+* . . 
+* . . 
+. . . 
+. . c 
+#case191
+impossible
+#case192
+. . . . 
+. . . . 
+. . . . 
+. . . . 
+. . . c 
+#case193
+* * . . . 
+* * . . c 
+#case194
+impossible
+#case195
+* * . . 
+* . . . 
+. . . . 
+. . . . 
+. . . c 
+#case196
+* 
+* 
+* 
+* 
+c 
+#case197
+impossible
+#case198
+impossible
+#case199
+. . 
+. . 
+. . 
+. c 
+#case200
+impossible
+#case201
+c 
+#case202
+. . . . 
+. . . . 
+. . . c 
+#case203
+* . . . 
+. . . . 
+. . . . 
+. . . c 
+#case204
+* * * * * 
+* * * . . 
+* * * . . 
+. . . . . 
+. . . . c 
+#case205
+impossible
+#case206
+* * * c 
+#case207
+. . . . . 
+. . . . . 
+. . . . c 
+#case208
+* * * . . 
+* * * . . 
+* * * . . 
+. . . . . 
+. . . . c 
+#case209
+* * . . 
+* * . . 
+* * . . 
+. . . . 
+. . . c 
+#case210
+* * * * * 
+* * . . . 
+* * . . c 
+#case211
+* * . . 
+* . . . 
+. . . . 
+. . . c 
+#case212
+impossible
+#case213
+* 
+* 
+* 
+. 
+c 
+#case214
+impossible
+#case215
+. . . 
+. . . 
+. . c 
+#case216
+* * * . . 
+* * * . . 
+* * . . . 
+. . . . . 
+. . . . c 
+#case217
+impossible
+#case218
+impossible
+#case219
+. . 
+. . 
+. . 
+. . 
+. c 
+#case220
+impossible
+#case221
+* * 
+* * 
+. . 
+. c 
+#case222
+impossible
+#case223
+. c 
+#case224
+impossible
+#case225
+impossible
